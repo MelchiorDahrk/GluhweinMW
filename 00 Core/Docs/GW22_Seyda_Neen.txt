@@ -1,0 +1,136 @@
+				Glühwein 2022 - Seyda Neen
+				By Team Glühwein 2022
+				Hemaris, Jackimoff Wackimoff, Melchior Dahrk, MwGek & tewlwolow
+				Version: 1.0
+
+=========
+Contents
+=========
+1.	Description
+2.	Requirements
+3.	Recommended mods
+4.	Permissions
+5.	Installation
+6.	Removal
+7.	Updating
+8.	Incompatibilities
+9.	Known Issues or Bugs
+10.	Load Order
+11.	Changelog
+12.	Contact
+13.	Credits
+
+============
+Description
+============
+Seyda Neen has entered the holiday season. Saturalia is coming to town. This mod completely overhauls the swampy town of Seyda Neen into a winter wonderland.  
+Help the Saturalia Spirit get his ghastly warm Saturalia sweater or collect a miniature village set for Plum, a gremlin, by defeating the nasy Gift Centurions that took them and rolled away.
+And have you heard the rumour that presents got stolen by the Grinch that moved to Seyda Neen this year?
+So sip some Glühwein and enjoy.
+
+Features:
+• Completely overhauled winter themed Seyda Neen.
+• A Glühwein stall selling the stuff that will keep you warm.
+• New thematic creatures.
+• 4 new quests to help you explore the new content.
+• New thematic music.
+• 9 winter themed mini-houses to collect.
+• 5 new comfortable Saturalia Sweaters.
+• And more...
+
+To start the quests:
+• Talk to the Saturalia Spirit near the Saturalia tree in the center of town to start the Festive Sweater quest.
+• Talk to Plum, Gremlin with pointy hat, behind the big tree next to the Glühwein stall for collecting the miniature village set.
+• Talk to a guard or one of the Gift Gremlins for starting the Grinch Quest.
+• 
+
+=============
+Requirements
+=============
+Morrowind, Tribunal, and Bloodmoon
+
+• OAAB_Data (https://www.nexusmods.com/morrowind/mods/49042)
+• Tamriel_Data (https://www.nexusmods.com/morrowind/mods/44537)
+
+=================
+Recommended mods
+=================
+• Morrowind Optimization Patch (https://www.nexusmods.com/morrowind/mods/45384)
+• Project Atlas (https://www.nexusmods.com/morrowind/mods/45399)
+• Glow in the Dahrk (https://www.nexusmods.com/morrowind/mods/45886)
+
+=================
+Compatible mods
+=================
+OAAB - Tombs and Towers (https://www.nexusmods.com/morrowind/mods/49131)
+
+
+============
+Permissions
+============
+Need permission to use or modify my mod
+
+=============
+Installation
+=============
+For the mod:
+ 1. Copy all files inside the 00 Core folder into the Data Files folder.
+ 2. Rerun you distant land generation if playing with MGE XE.
+ 3. Activate GW22_Seyda_Neen.esp.
+ 4. Play the mod.
+
+========
+Removal
+========
+1. Uncheck GW22_Seyda_Neen.esp in your loadorder.
+2. Remove GW22_Seyda_Neen.esp from the data files folder. 
+3. Delete the meshes, icons, textures, music, Mwse files inside the GW22 folders with the inside data files folders.
+
+=============
+Updating to 
+=============
+Overwrite all existing files with the new files. Run the update through Wrye Mash to avoid problems.
+
+==================
+Incompatibilities
+==================
+• This mod is not compatible with mods that alter the Seydna Neen cells.
+
+=====================
+Known Issues or Bugs
+=====================
+None, but be sure to note down any bugs on the nexus page so I can update the mod.
+
+===========
+Load Order
+===========
+Load Tamriel_Data & OAAB_Data before URH - Ald Velothi in your loadorder.
+
+1. OAAB_Data (https://www.nexusmods.com/morrowind/mods/49042)
+2. Tamriel_Data (https://www.nexusmods.com/morrowind/mods/44537)
+3. GW22_Seyda_Neen 
+
+==========
+Changelog
+==========
+v.1.0
+• Initial release
+
+========
+Contact
+========
+Discord: 
+Hemaris#9366
+Jackimoff Wackimoff#8436
+Melchior Dahrk#7120
+MwGek#1275
+tewlwolow#2209
+
+========
+Credits
+========
+Thanks to Bethesda Softworks for developing Morrowind and the Construction Set.
+Thanks to Brucoms for developing the TES3 Readme Generator this readme was made from.
+Thanks to the OAAB_Data team for the assets used in this mod.
+Thanks to the Tamriel_data team for the assets used in this mod.
+Thanks to Null Cascade & Greatness7 for work on the CSSE.
