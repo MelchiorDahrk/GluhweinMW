@@ -23,26 +23,25 @@ Contents
 ============
 Description
 ============
-Seyda Neen has entered the holiday season. Saturalia is coming to town. This mod completely overhauls the swampy town of Seyda Neen into a winter wonderland.  
-Help the Saturalia Spirit get his ghastly warm Saturalia sweater or collect a miniature village set for Plum, a gremlin, by defeating the nasy Gift Centurions that took them and rolled away.
-And have you heard the rumour that presents got stolen by the Grinch that moved to Seyda Neen this year?
-So sip some Glühwein and enjoy.
+Seyda Neen has entered the holiday season. Saturalia is coming to town. This mod completely overhauls the swampy town of Seyda Neen into a winter wonderland. Help the Saturalia Spirit get his ghastly, warm Saturalia sweater or collect a miniature village set for Plum, a gremlin, by defeating the nasty Gift Centurions that took them and rolled away. And have you heard the rumour that presents have been stolen by the Grinch who moved to Seyda Neen this year?
+So sip some Glühwein, roll up your sleeves and enjoy.
 
 Features:
-• Completely overhauled winter themed Seyda Neen.
-• A Glühwein stall selling the stuff that will keep you warm.
-• New thematic creatures.
-• 4 new quests to help you explore the new content.
-• New thematic music.
-• 9 winter themed mini-houses to collect.
-• 5 new comfortable Saturalia Sweaters.
+• Completely overhauled, winter themed Seyda Neen
+• A Glühwein stall selling the stuff that will keep you warm
+• New thematic creatures
+• 4 new quests to help you explore the new content
+• New thematic music
+• 9 winter themed mini-houses to collect
+• 5 new comfortable Saturalia Sweaters
+• New weapons and armor
 • And more...
 
 To start the quests:
-• Talk to the Saturalia Spirit near the Saturalia tree in the center of town to start the Festive Sweater quest.
-• Talk to Plum, Gremlin with pointy hat, behind the big tree next to the Glühwein stall for collecting the miniature village set.
-• Talk to a guard or one of the Gift Gremlins for starting the Grinch Quest.
-• Talk to the Glühwein seller to start the Rudolph quest.
+• Talk to the Saturalia Spirit near the Saturalia tree in the center of town to start the Festive Sweater quest
+• Talk to Plum, Gremlin with a pointy hat, behind the big tree next to the Glühwein stall for collecting the miniature village set
+• Talk to an Imperial guard or one of the Gift Gremlins to start the Grinch Quest
+• Talk to the lady in the Glühwein stall to start the Rudolph quest
 
 =============
 Requirements
